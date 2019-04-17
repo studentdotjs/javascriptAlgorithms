@@ -3,7 +3,7 @@
 
 1. **One String** as an argument.
 
-2. Returns **Longest Word In The String** Along With: 
+2. Show **Longest Word In The String** in the console Along With: 
 
     1. **Length** of the Longest Word.    
     1. **Position Number** of the Longest Word.    
