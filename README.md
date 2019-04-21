@@ -9,5 +9,6 @@
 1. Is the Number Less than or Equal to Zero ?
 1. Compare Strings by Sum of Characters.
 1. Is the Number Even or Odd ?
+1. Check if an Integer is Divisible By 5 ?
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
