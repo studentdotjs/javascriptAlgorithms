@@ -10,5 +10,6 @@
 1. Compare Strings by Sum of Characters.
 1. Is the Number Even or Odd ?
 1. Check if an Integer is Divisible By 5 ?
+1. Area of a Triangle.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
