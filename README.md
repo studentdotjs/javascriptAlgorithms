@@ -12,5 +12,6 @@
 1. Check if an Integer is Divisible By 5 ?
 1. Area of a Triangle.
 1. Is the String Empty ?
+1. Total Legs in the Farm.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
