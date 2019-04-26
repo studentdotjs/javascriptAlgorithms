@@ -13,5 +13,7 @@
 1. Area of a Triangle.
 1. Is the String Empty ?
 1. Total Legs in the Farm.
+1. Return the Remainder.
+1. Concatenating Two Integer Arrays.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
