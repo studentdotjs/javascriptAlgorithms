@@ -16,5 +16,6 @@
 1. Return the Remainder.
 1. Concatenating Two Integer Arrays.
 1. Divisible By 100 Or Not.
+1. Profitable Gamble.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
