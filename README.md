@@ -17,5 +17,6 @@
 1. Concatenating Two Integer Arrays.
 1. Divisible By 100 Or Not.
 1. Profitable Gamble.
+1. Is the Word Singular Or Plural ?
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
