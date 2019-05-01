@@ -18,5 +18,7 @@
 1. Divisible By 100 Or Not.
 1. Profitable Gamble.
 1. Is the Word Singular Or Plural ?
+1. Check if an Array Includes an Element.
+1. Reverse an Array.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
