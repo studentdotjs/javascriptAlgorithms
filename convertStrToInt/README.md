@@ -2,7 +2,7 @@
 
 1. **One String** as an argument. 
 1. Convert that **String into an Integer** and show output in the console.
-    1. Also show typeof of argumnets **Before and After conversion** in the console.
+    1. Also show **typeof** of argumnets **Before and After conversion** in the console.
 
 > strToInt("22") ➞ 22
 

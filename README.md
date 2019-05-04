@@ -21,5 +21,6 @@
 1. Check if an Array Includes an Element.
 1. Reverse an Array.
 1. Convert String To Integer.
+1. Convert Integer To String.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
