@@ -20,5 +20,6 @@
 1. Is the Word Singular Or Plural ?
 1. Check if an Array Includes an Element.
 1. Reverse an Array.
+1. Convert String To Integer.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
