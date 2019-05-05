@@ -22,5 +22,6 @@
 1. Reverse an Array.
 1. Convert String To Integer.
 1. Convert Integer To String.
+1. Largest Swap.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
