@@ -24,5 +24,6 @@
 1. Convert Integer To String.
 1. Largest Swap.
 1. Concatenate First and Last Name into One Reversed String.
+1. Return the Last Element in an Array.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
