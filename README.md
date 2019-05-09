@@ -27,5 +27,6 @@
 1. Return the Last Element in an Array.
 1. Check String for Spaces.
 1. Smaller String Number.
+1. Find The Index.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
