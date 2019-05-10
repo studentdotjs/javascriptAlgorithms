@@ -28,5 +28,6 @@
 1. Check String for Spaces.
 1. Smaller String Number.
 1. Find The Index.
+1. Word Endings.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
