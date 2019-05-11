@@ -29,5 +29,6 @@
 1. Smaller String Number.
 1. Find The Index.
 1. Word Endings.
+1. Missing Third Angle.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
