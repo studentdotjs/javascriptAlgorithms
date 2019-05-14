@@ -31,6 +31,7 @@
 1. Word Endings.
 1. Missing Third Angle.
 1. Check if the Same Case.
-1. Remove Null from an Array
+1. Remove Null from an Array.
+1. Return the First and Last Elements in an Array.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
