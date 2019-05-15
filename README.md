@@ -33,5 +33,6 @@
 1. Check if the Same Case.
 1. Remove Null from an Array.
 1. Return the First and Last Elements in an Array.
+1. Retrieve the Last N Elements.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
