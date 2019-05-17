@@ -35,5 +35,6 @@
 1. Return the First and Last Elements in an Array.
 1. Retrieve the Last N Elements.
 1. Remove the First and Last Characters From String.
+1. Find the Total Number of Digits the Given Number Has.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
