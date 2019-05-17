@@ -9,4 +9,4 @@
 
 > digitsOfNum(0) ➞ 1
 
-Codepen Link: [Total Number of Digits]()
+Codepen Link: [Total Number of Digits](https://codepen.io/naveencoder/pen/zQwRbr)
