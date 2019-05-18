@@ -36,5 +36,6 @@
 1. Retrieve the Last N Elements.
 1. Remove the First and Last Characters From String.
 1. Find the Total Number of Digits the Given Number Has.
+1. Product of All Odd Integers.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
