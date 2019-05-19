@@ -7,7 +7,7 @@ function removeNullValues(arr) {
         }
     }
     if (arr.length > 0)
-        console.log(`After removing all ${null} values from the array we have ${arr} values in the array.`);
+        console.log(`After removing all ${null} values from the array we have [${arr}] values in the array.`);
     else {
         console.log(`After removing all ${null} values from the array we don't have any values in the array.`);
     }
