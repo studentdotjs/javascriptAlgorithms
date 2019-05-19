@@ -1,7 +1,7 @@
 ### If An Array Includes an Element - Create a function that takes: 
 
-1. **One Array** and **One Single Element** as an arguments. 
-1. The function will check whether that particular element is **Included in the array or not** and show the output in the console.
+1. **One Array** and **One Element** as an arguments. 
+1. The function will check whether that particular single element is **Included in the array or not** and show the output in the console.
 
 > elementIncldesOrNot([10, 20, 30, 40, 50] , 30) ➞ Element Included
 
