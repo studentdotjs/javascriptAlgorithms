@@ -7,6 +7,12 @@
     1. **Both Strings** are strange pair.    
     1. Else show **False** in the console, if both strings are not strange pair.
 
+> strangePairOrNot('king', 'greek') ➞ Strange Pair 
+
+> strangePairOrNot('tip', 'pick') ➞ Not Strange Pair
+
+> strangePairOrNot('play', 'yap') ➞ Strange Pair
+
 Codepen Link: [Strange Pair](https://codepen.io/naveencoder/pen/mYMywg?editors=0012)
 
 #### Strange Pair - A pair of strings form a Strange Pair if:
