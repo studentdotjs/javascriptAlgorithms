@@ -38,5 +38,6 @@
 1. Find the Total Number of Digits the Given Number Has.
 1. Product of All Odd Integers.
 1. Strange Pair.
+1. Odd Up, Even Down.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
