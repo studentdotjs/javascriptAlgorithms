@@ -2,7 +2,7 @@
 
 1. **One Integer** (Number) as an argument.
 
-2. **Increments** the integer (Number) by **+1** and show the Result in the console.
+2. **Increment** the integer (Number) by **+1** and show the Result in the console.
 
 > Examples : nextNumber(10) ➞ 11
 
