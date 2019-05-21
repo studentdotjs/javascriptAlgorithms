@@ -1,7 +1,7 @@
 ### Remove Null elements from an Array - Create a function that takes: 
 
 1. **A Array** as an argument with some **Null elements**. 
-1. Show **Array Values** after removing all **Null elements** in the console.
+1. Show **Array** after removing all **Null elements**, in the console.
 
 > removeNullValues(['one', 2, 'three', null]) ➞ ['one', 2, 'three']
 
