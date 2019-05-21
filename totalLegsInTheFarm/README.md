@@ -7,7 +7,7 @@
 ### Create a function, that takes:
 
 1. **3 Numbers** as Total number of chickens, cows and pigs as an arguments. 
-1. Show **Total Number Of Legs ** of the animals in the **console**.
+1. Show **Total Number Of Legs** of the animals in the **console**.
 
 > totalLegsInFarm(10, 5, 7) ➞ 68
 
