@@ -39,5 +39,6 @@
 1. Product of All Odd Integers.
 1. Strange Pair.
 1. Odd Up, Even Down.
+1. Convert Number to Corresponding Month Name.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
