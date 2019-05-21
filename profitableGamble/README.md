@@ -1,11 +1,11 @@
 ### Profitable gamble -  Profitable gamble is a game that yields a Positive Net Profit.
 
 #### Net profit is calculated in the following manner:
-#### Net profit = Probability of winning * Prize - Cost of paying.
+#### Net profit = Probability of winning * Prize - Cost of playing.
 
 #### Therefore, Create a function that takes: 
 
-1. **Probability of winning, Prize and Cost of paying** as an **3 arguments**. 
+1. **Probability of winning, Prize and Cost of playing** as an **3 arguments**. 
 1. Show below outputs in the console:
     1. Whether the user has gained **Net Profit** or **Net Loss**.
     1. Show how much **Net profit** or **Net Loss** the user has gained.
