@@ -1,4 +1,4 @@
-### Odd Up and Even Down - Create a function that takes: 
+### Odd Up and Even Down (Transform Integers) - Create a function that takes: 
 
 1. **One Integer** Array as an argument. 
 1. Transform every **Even element**, in the array into **Odd element** by **Decrementing 1**.
