@@ -40,5 +40,6 @@
 1. Strange Pair.
 1. Odd Up, Even Down.
 1. Convert Number to Corresponding Month Name.
+1. Word count (Total words in a string).
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
