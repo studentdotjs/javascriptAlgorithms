@@ -42,5 +42,6 @@
 1. Convert Number to Corresponding Month Name.
 1. Word count (Total words in a string).
 1. Slice of pie.
+1. Hurdle Jump.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
