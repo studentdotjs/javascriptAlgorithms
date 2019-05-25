@@ -43,5 +43,6 @@
 1. Word count (Total words in a string).
 1. Slice of pie.
 1. Hurdle Jump.
+1. Product Divisible By Sum?
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
