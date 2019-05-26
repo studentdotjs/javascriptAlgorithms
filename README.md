@@ -44,5 +44,6 @@
 1. Slice of pie.
 1. Hurdle Jump.
 1. Product Divisible By Sum?
+1. Get the File Extension.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
