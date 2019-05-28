@@ -46,5 +46,6 @@
 1. Product Divisible By Sum?
 1. Get the File Extension.
 1. Generate a Countdown of Numbers in an Array.
+1. Convert Number to String of Dashes.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
