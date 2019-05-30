@@ -48,5 +48,6 @@
 1. Generate a Countdown of Numbers in an Array.
 1. Convert Number to String of Dashes.
 1. Even Number Generator.
+1. Repeating Letters N Times.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
