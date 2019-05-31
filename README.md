@@ -49,5 +49,11 @@
 1. Convert Number to String of Dashes.
 1. Even Number Generator.
 1. Repeating Letters N Times.
+1. Add up the Numbers from a Single Number.
+1. Return the Index of the First Vowel.
+1. Multiply by Length.
+1. Repeat the Same Item Multiple Times.
+1. String Index Shuffle.
+1. Shuffle the Name.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
