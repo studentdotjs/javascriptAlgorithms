@@ -55,5 +55,6 @@
 1. Repeat the Same Item Multiple Times.
 1. String Index Shuffle.
 1. Shuffle the Name.
+1. Hashes and Pluses.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
