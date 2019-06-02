@@ -56,5 +56,6 @@
 1. String Index Shuffle.
 1. Shuffle the Name.
 1. Hashes and Pluses.
+1. Spelling it Out.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
