@@ -58,5 +58,6 @@
 1. Hashes and Pluses.
 1. Spelling it Out.
 1. Amplify the Multiples of 4.
+1. Secret Society.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
