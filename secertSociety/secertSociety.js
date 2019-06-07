@@ -5,6 +5,6 @@ let secertSocietyName = function (friendsArr) {
     }
     secertSociety = secertSociety.split("").sort().join("").toUpperCase();
     console.log(`The name of [${friendsArr}] array Secrty Society is '${secertSociety}'.`);
-}
+};
 
 secertSocietyName(['naveen', 'mahaveer', 'manish', 'prabhjeet', 'nandkishor']);

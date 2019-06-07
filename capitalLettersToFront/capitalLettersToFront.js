@@ -13,6 +13,6 @@ let capitalLettersToFront = function (str) {
     }
     capsToFront = capChars.concat(smallChars);
     console.log(`After moving captial letters of '${str}' into the front of the word we got '${capsToFront}'.`);
-}
+};
 
 capitalLettersToFront('NaVeEn');

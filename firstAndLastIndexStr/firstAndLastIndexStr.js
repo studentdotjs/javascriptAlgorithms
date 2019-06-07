@@ -18,6 +18,6 @@ let firstAndLastIndex = function (str, char) {
         console.log(`First and Last Index number of '${char}' in '${str}' is [${firstAndLastIndexArr}].`);
     }
 
-}
+};
 
 firstAndLastIndex('cricket', 'c');

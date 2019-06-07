@@ -11,6 +11,6 @@ let amplify4 = function (number) {
         }
     }
     console.log(`From 1 to ${number}, after amplifying the multiples of 4 by 10 : [${amplify4Arr}].`);
-}
+};
 
 amplify4(23);
