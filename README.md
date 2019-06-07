@@ -61,5 +61,6 @@
 1. Secret Society.
 1. Move Capital Letters to the Front.
 1. First and Last Index.
+1. Sum of Cubes.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
