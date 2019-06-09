@@ -63,5 +63,6 @@
 1. First and Last Index.
 1. Sum of Cubes.
 1. Reverse the Case.
+1. How Many And Which Vowels?
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
