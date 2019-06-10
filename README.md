@@ -64,5 +64,6 @@
 1. Sum of Cubes.
 1. Reverse the Case.
 1. How Many And Which Vowels?
+1. Filter out Strings from an Array.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
