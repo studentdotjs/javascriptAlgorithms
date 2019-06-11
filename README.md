@@ -65,5 +65,6 @@
 1. Reverse the Case.
 1. How Many And Which Vowels?
 1. Filter out Strings from an Array.
+1. Repeat Each Character of String Once.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
