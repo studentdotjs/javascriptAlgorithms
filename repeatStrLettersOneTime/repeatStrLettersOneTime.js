@@ -6,6 +6,6 @@ function doubleChar(str) {
         repeatedStr += splitStr[i].concat(splitStr[i]);
     }
     console.log(`After repeating '${str}'s each character one time = '${repeatedStr}'.`);
-}
+};
 
 doubleChar('SATuarday');
