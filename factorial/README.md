@@ -3,7 +3,7 @@
 1. One **Number** (Integer) as an argument. 
 1. Show **Factorial** of **Argument Integer** in the console.
 
-Note : Input integer only **Equal To Greater** than 1.
+Note : Input integer only **Equal To Or Greater** than 0.
 
 > numFactorial(11) ➞ 39916800
 
