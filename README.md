@@ -67,5 +67,6 @@
 1. Filter out Strings from an Array.
 1. Repeat Each Character of String Once.
 1. Find Out Factorial.
+1. Count Instances of a Character in a String.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
