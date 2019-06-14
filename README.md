@@ -68,5 +68,6 @@
 1. Repeat Each Character of String Once.
 1. Find Out Factorial.
 1. Count Instances of a Character in a String.
+1. Is the Average of All Elements a Whole Number?
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
