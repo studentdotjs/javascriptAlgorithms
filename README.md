@@ -69,5 +69,6 @@
 1. Find Out Factorial.
 1. Count Instances of a Character in a String.
 1. Is the Average of All Elements a Whole Number?
+1. Phone Number Formatting.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
