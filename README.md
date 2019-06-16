@@ -70,5 +70,6 @@
 1. Count Instances of a Character in a String.
 1. Is the Average of All Elements a Whole Number?
 1. Phone Number Formatting.
+1. Factorize a Number.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
