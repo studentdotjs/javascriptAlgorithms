@@ -71,5 +71,6 @@
 1. Is the Average of All Elements a Whole Number?
 1. Phone Number Formatting.
 1. Factorize a Number.
+1. Even or Odd Number of Factors.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
