@@ -72,5 +72,6 @@
 1. Phone Number Formatting.
 1. Factorize a Number.
 1. Even or Odd Number of Factors.
+1. Find the Missing Number.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
