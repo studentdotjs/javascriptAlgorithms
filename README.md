@@ -74,5 +74,6 @@
 1. Even or Odd Number of Factors.
 1. Find the Missing Number.
 1. Capitalize the Names.
+1. Reverse Words Starting With a Particular Letter.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
