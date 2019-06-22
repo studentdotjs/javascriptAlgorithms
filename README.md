@@ -75,5 +75,6 @@
 1. Find the Missing Number.
 1. Capitalize the Names.
 1. Reverse Words Starting With a Particular Letter.
+1. Power of 2.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
