@@ -77,5 +77,6 @@
 1. Reverse Words Starting With a Particular Letter.
 1. Power of 2.
 1. Compounding Letters.
+1. Secert Code.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
