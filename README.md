@@ -78,5 +78,6 @@
 1. Power of 2.
 1. Compounding Letters.
 1. Secert Code.
+1. Alternating String Letters.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
