@@ -9,4 +9,4 @@
 
 > alternateStrLetters("Jaipur is a world class city") ➞ "JaIpUr iS A WoRlD ClAsS CiTy"
 
-Codepen Link: [Alternating String Letters ](https://codepen.io/naveencoder/pen/NVEvzQ?editors=0010)
+Codepen Link: [Alternating String Letters ](https://codepen.io/naveencoder/pen/NZjObZ)
