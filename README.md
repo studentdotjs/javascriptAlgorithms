@@ -79,6 +79,7 @@
 1. Compounding Letters.
 1. Secert Code.
 1. Alternating String Letters.
-1. Sum of Digits
+1. Sum of Digits.
+1. Replace Letters With Position Number In Alphabet.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
