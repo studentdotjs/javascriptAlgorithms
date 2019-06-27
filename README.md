@@ -81,5 +81,6 @@
 1. Alternating String Letters.
 1. Sum of Digits.
 1. Replace Letters With Position Number In Alphabet.
+1. Repeat Letters of Alphanumeric String.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
