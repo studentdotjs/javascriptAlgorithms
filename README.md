@@ -83,5 +83,6 @@
 1. Replace Letters With Position Number In Alphabet.
 1. Repeat Letters of Alphanumeric String.
 1. Name Initials.
+1. Transforming Words into Binary Strings.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
