@@ -85,5 +85,6 @@
 1. Name Initials.
 1. Transforming Words into Binary Strings.
 1. Remove Every Vowel from a String.
+1. Return the Middle Character(s) of a String.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
