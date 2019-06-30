@@ -84,5 +84,6 @@
 1. Repeat Letters of Alphanumeric String.
 1. Name Initials.
 1. Transforming Words into Binary Strings.
+1. Remove Every Vowel from a String.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
