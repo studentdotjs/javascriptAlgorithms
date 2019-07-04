@@ -87,5 +87,6 @@
 1. Remove Every Vowel from a String.
 1. Return the Middle Character(s) of a String.
 1. Equality of 3 Values.
+1. Is the Word an Isogram ?
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
