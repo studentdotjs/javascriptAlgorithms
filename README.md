@@ -89,5 +89,6 @@
 1. Equality of 3 Values.
 1. Is the Word an Isogram ?
 1. Last Digit Ultimate.
+1. Counting Adverbs.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
