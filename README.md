@@ -91,5 +91,6 @@
 1. Last Digit Ultimate.
 1. Counting Adverbs.
 1. Cumulative Array Sum.
+1. Return the Sum of the Two Smallest Numbers.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
