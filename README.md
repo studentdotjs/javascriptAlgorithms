@@ -92,5 +92,6 @@
 1. Counting Adverbs.
 1. Cumulative Array Sum.
 1. Return the Sum of the Two Smallest Numbers.
+1. Return an Array of Subarrays.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
