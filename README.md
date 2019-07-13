@@ -95,5 +95,6 @@
 1. Return an Array of Subarrays.
 1. One Button Messaging Device.
 1. Positive Count / Negative Sum.
+1. Recursion: Count Vowels.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
