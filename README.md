@@ -97,5 +97,6 @@
 1. Positive Count / Negative Sum.
 1. Recursion: Count Vowels.
 1. Odds vs. Evens.
+1. Automorphic Numbers.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
