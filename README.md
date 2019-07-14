@@ -96,5 +96,6 @@
 1. One Button Messaging Device.
 1. Positive Count / Negative Sum.
 1. Recursion: Count Vowels.
+1. Odds vs. Evens.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
