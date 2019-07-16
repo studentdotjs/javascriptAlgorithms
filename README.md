@@ -98,5 +98,6 @@
 1. Recursion: Count Vowels.
 1. Odds vs. Evens.
 1. Automorphic Numbers.
+1. Replacing Letters with Hashes.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
