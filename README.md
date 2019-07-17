@@ -99,5 +99,6 @@
 1. Odds vs. Evens.
 1. Automorphic Numbers.
 1. Replacing Letters with Hashes.
+1. Are Letters in the Second String Present in the First ?
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
