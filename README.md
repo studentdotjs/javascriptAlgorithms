@@ -100,5 +100,6 @@
 1. Automorphic Numbers.
 1. Replacing Letters with Hashes.
 1. Are Letters in the Second String Present in the First ?
+1. Reverse multiplication of digits of a number.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
