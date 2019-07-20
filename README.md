@@ -102,5 +102,6 @@
 1. Are Letters in the Second String Present in the First ?
 1. Reverse multiplication of digits of a number.
 1. First N Vowels.
+1. Partially Hidden String.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
