@@ -103,5 +103,6 @@
 1. Reverse multiplication of digits of a number.
 1. First N Vowels.
 1. Partially Hidden String.
+1. Index Multiplier.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
