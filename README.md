@@ -106,5 +106,6 @@
 1. Index Multiplier.
 1. Numeric Seesaw.
 1. Words that Start with a Vowel.
+1. N-Sized Parts.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
