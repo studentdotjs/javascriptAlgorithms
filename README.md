@@ -107,5 +107,6 @@
 1. Numeric Seesaw.
 1. Words that Start with a Vowel.
 1. N-Sized Parts.
+1. Change Every Letter to the Next Letter.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
