@@ -109,5 +109,6 @@
 1. N-Sized Parts.
 1. Change Every Letter to the Next Letter.
 1. Mini Peaks.
+1. Check if a Number is Prime.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
