@@ -110,5 +110,6 @@
 1. Change Every Letter to the Next Letter.
 1. Mini Peaks.
 1. Check if a Number is Prime.
+1. Sum of all Evens in a Matrix.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
