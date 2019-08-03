@@ -111,5 +111,6 @@
 1. Mini Peaks.
 1. Check if a Number is Prime.
 1. Sum of all Evens in a Matrix.
+1. Odd Up, Even Down — N Times.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
