@@ -114,5 +114,6 @@
 1. Odd Up, Even Down — N Times.
 1. Fix The Spacing.
 1. Number of Arrays in an Array.
+1. Flattening an Array.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
