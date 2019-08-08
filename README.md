@@ -116,5 +116,6 @@
 1. Number of Arrays in an Array.
 1. Flattening an Array.
 1. Split Item Codes.
+1. Progress Bar.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
