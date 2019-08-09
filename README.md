@@ -117,5 +117,6 @@
 1. Flattening an Array.
 1. Split Item Codes.
 1. Progress Bar.
+1. Find Unique Positive Numbers from Array.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
