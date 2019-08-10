@@ -118,5 +118,6 @@
 1. Split Item Codes.
 1. Progress Bar.
 1. Find Unique Positive Numbers from Array.
+1. Return the Index of All Capital Letters.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
