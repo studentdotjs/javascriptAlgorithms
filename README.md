@@ -121,5 +121,6 @@
 1. Return the Index of All Capital Letters.
 1. Remove First Element & Add Element in the Last of Array.
 1. Remix The String.
+1. What's the Data Type?.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
