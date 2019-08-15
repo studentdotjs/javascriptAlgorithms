@@ -123,5 +123,6 @@
 1. Remix The String.
 1. What's the Data Type?.
 1. Chocolate Dilemma.
+1. Split a String Based on Vowels and Consonants.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
