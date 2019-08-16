@@ -124,5 +124,6 @@
 1. What's the Data Type?.
 1. Chocolate Dilemma.
 1. Split a String Based on Vowels and Consonants.
+1. White Space between Every Capitalize Word of String.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
