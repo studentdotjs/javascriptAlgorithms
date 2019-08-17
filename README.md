@@ -125,5 +125,6 @@
 1. Chocolate Dilemma.
 1. Split a String Based on Vowels and Consonants.
 1. White Space between Every Capitalize Word of String.
+1. Return the First Value of an Array.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
