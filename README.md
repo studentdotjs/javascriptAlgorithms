@@ -128,5 +128,6 @@
 1. Return the First Value of an Array.
 1. Greater Than the Sum.
 1. Length of a String.
+1. Pandigital Numbers.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
