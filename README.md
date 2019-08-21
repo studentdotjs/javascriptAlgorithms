@@ -129,5 +129,6 @@
 1. Greater Than the Sum.
 1. Length of a String.
 1. Pandigital Numbers.
+1. Reverse the Odd Length Words.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
