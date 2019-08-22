@@ -130,5 +130,6 @@
 1. Length of a String.
 1. Pandigital Numbers.
 1. Reverse the Odd Length Words.
+1. Mangle the String.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
