@@ -132,5 +132,6 @@
 1. Reverse the Odd Length Words.
 1. Mangle the String.
 1. Find The Index Of Integer In the Array.
+1. Find the Missing Letter.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
