@@ -133,5 +133,6 @@
 1. Mangle the String.
 1. Find The Index Of Integer In the Array.
 1. Find the Missing Letter.
+1. String or Integer?
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
