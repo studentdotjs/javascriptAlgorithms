@@ -134,5 +134,6 @@
 1. Find The Index Of Integer In the Array.
 1. Find the Missing Letter.
 1. String or Integer?
+1. Repeat the Shorter String.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
