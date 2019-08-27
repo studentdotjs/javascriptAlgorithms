@@ -135,5 +135,6 @@
 1. Find the Missing Letter.
 1. String or Integer?
 1. Repeat the Shorter String.
+1. Find the Shared Letters between Two Strings.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
