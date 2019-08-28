@@ -136,5 +136,6 @@
 1. String or Integer?
 1. Repeat the Shorter String.
 1. Find the Shared Letters between Two Strings.
+1. Remainder Array.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
