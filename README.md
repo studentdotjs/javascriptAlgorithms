@@ -138,5 +138,6 @@
 1. Find the Shared Letters between Two Strings.
 1. Remainder Array.
 1. Split and Delimit.
+1. Sort Words by a String.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
