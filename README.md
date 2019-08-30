@@ -139,5 +139,6 @@
 1. Remainder Array.
 1. Split and Delimit.
 1. Sort Words by a String.
+1. Unlucky 13.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
