@@ -140,5 +140,6 @@
 1. Split and Delimit.
 1. Sort Words by a String.
 1. Unlucky 13.
+1. Reorder Digits.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
