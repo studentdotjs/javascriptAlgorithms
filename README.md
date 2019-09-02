@@ -141,5 +141,6 @@
 1. Sort Words by a String.
 1. Unlucky 13.
 1. Reorder Digits.
+1. Broken Keyboard.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
