@@ -143,5 +143,6 @@
 1. Reorder Digits.
 1. Broken Keyboard.
 1. Add, Subtract, Multiply or Divide ?
+1. Is the String in Order ?
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
