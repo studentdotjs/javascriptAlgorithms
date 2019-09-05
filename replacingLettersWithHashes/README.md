@@ -1,7 +1,7 @@
 ### Replacing Letters with Hashes - Create a function that takes: 
 
 1. One **Lowercase String** and **Range** between **A To Z** as an arguments. 
-1. **Replaces All **Letters within **Specified** range with the **#** symbol and show a **New String** in the console.
+1. **Replaces All** Letters within **Specified** range with the **#** symbol and show a **New String** in the console.
 
 > replaceWithHashes("programmer", "f-l") ➞ "pro#rammer"
 
