@@ -145,5 +145,6 @@
 1. Add, Subtract, Multiply or Divide ?
 1. Is the String in Order ?
 1. Beginning and End Pairs.
+1. Find the Largest Number in an Array.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
