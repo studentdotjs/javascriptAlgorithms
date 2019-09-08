@@ -147,5 +147,6 @@
 1. Beginning and End Pairs.
 1. Find the Largest Number in an Array.
 1. Vowel Replacer.
+1. Left Eating Right.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
