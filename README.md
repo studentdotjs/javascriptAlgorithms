@@ -148,5 +148,6 @@
 1. Find the Largest Number in an Array.
 1. Vowel Replacer.
 1. Left Eating Right.
+1. Shared Digits.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
