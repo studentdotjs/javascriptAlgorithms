@@ -150,5 +150,6 @@
 1. Left Eating Right.
 1. Shared Digits.
 1. Star Shorthand.
+1. Digits Battle!.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
