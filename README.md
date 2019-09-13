@@ -152,5 +152,6 @@
 1. Star Shorthand.
 1. Digits Battle!.
 1. Numbers in Strings.
+1. Filter out Strings from an Array (With Another Approach).
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
