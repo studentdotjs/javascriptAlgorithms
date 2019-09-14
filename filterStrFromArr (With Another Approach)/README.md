@@ -9,4 +9,4 @@
 
 > filterOutStr(["house", 7, 12, "area", "jaipur", 302004, 25]) ➞ [7,12,302004,25]
 
-Codepen Link: [Filter out Strings from an Array]()
+Codepen Link: [Filter out Strings from an Array](https://codepen.io/naveencoder/pen/VwZdoPo?editors=0012)
