@@ -153,5 +153,6 @@
 1. Digits Battle!.
 1. Numbers in Strings.
 1. Filter out Strings from an Array (With Another Approach).
+1. Eliminate Odd Numbers within an Array
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
