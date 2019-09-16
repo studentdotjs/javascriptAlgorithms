@@ -155,5 +155,6 @@
 1. Filter out Strings from an Array (With Another Approach).
 1. Eliminate Odd Numbers within an Array.
 1. Even Odd Partition.
+1. Filter by Digit Length.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
