@@ -156,5 +156,6 @@
 1. Eliminate Odd Numbers within an Array.
 1. Even Odd Partition.
 1. Filter by Digit Length.
+1. Seven Boom!
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
