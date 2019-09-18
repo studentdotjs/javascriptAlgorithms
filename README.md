@@ -157,5 +157,6 @@
 1. Even Odd Partition.
 1. Filter by Digit Length.
 1. Seven Boom!
+1. Words With Duplicate Letters.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
