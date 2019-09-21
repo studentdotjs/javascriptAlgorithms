@@ -160,5 +160,6 @@
 1. Words With Duplicate Letters.
 1. Maximum Edge of a Triangle.
 1. Convert String to camelCase.
+1. Double Character Swap.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
