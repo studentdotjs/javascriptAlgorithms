@@ -164,5 +164,6 @@
 1. Recursion: Sum.
 1. Return the Four Letter Strings.
 1. Censored Strings.
+1. Total Number of Unique Characters.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
