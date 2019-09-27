@@ -166,5 +166,6 @@
 1. Censored Strings.
 1. Total Number of Unique Characters.
 1. Tweaking Letters.
+1. Replace Every Nth Instance of a Character.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
