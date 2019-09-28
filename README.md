@@ -167,5 +167,6 @@
 1. Total Number of Unique Characters.
 1. Tweaking Letters.
 1. Replace Every Nth Instance of a Character.
+1. Repeat String Character N Times.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
