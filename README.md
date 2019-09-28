@@ -168,5 +168,6 @@
 1. Tweaking Letters.
 1. Replace Every Nth Instance of a Character.
 1. Repeat String Character N Times.
+1. Persistent Little Bugger.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
