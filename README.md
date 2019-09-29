@@ -169,5 +169,6 @@
 1. Replace Every Nth Instance of a Character.
 1. Repeat String Character N Times.
 1. Persistent Little Bugger.
+1. Two Distinct Elements.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
