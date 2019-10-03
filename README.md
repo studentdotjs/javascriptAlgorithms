@@ -171,5 +171,6 @@
 1. Persistent Little Bugger.
 1. Two Distinct Elements.
 1. Dice Gambling.
+1. Check Factors.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
