@@ -173,5 +173,6 @@
 1. Dice Gambling.
 1. Check Factors.
 1. Extract City Facts.
+1. Selective Array Reversal.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
