@@ -172,5 +172,6 @@
 1. Two Distinct Elements.
 1. Dice Gambling.
 1. Check Factors.
+1. Extract City Facts.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
