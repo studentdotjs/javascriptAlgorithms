@@ -174,5 +174,6 @@
 1. Check Factors.
 1. Extract City Facts.
 1. Selective Array Reversal.
+1. Get Student Names.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
