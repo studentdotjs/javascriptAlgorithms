@@ -175,5 +175,6 @@
 1. Extract City Facts.
 1. Selective Array Reversal.
 1. Get Student Names.
+1. Volume of a Box.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
