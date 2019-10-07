@@ -176,5 +176,6 @@
 1. Selective Array Reversal.
 1. Get Student Names.
 1. Volume of a Box.
+1. Check if Number is within a Given Range.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
