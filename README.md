@@ -177,5 +177,6 @@
 1. Get Student Names.
 1. Volume of a Box.
 1. Check if Number is within a Given Range.
+1. Scrabble Hand.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
