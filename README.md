@@ -179,5 +179,6 @@
 1. Check if Number is within a Given Range.
 1. Scrabble Hand.
 1. Calculate the Profit.
+1. Multiplicity of Numbers.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
