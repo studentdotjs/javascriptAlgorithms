@@ -180,5 +180,6 @@
 1. Scrabble Hand.
 1. Calculate the Profit.
 1. Multiplicity of Numbers.
+1. Minutes to Seconds.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
