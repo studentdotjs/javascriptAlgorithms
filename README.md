@@ -181,5 +181,6 @@
 1. Calculate the Profit.
 1. Multiplicity of Numbers.
 1. Minutes to Seconds.
+1. Frequency Distribution.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
