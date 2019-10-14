@@ -183,5 +183,6 @@
 1. Minutes to Seconds.
 1. Frequency Distribution.
 1. Oddish vs. Evenish.
+1. Are the Numbers Equal ?
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
