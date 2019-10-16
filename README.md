@@ -185,5 +185,6 @@
 1. Oddish vs. Evenish.
 1. Are the Numbers Equal ?
 1. Remove The Letters!
+1. Advanced Array Sort.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
