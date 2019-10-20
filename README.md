@@ -189,5 +189,6 @@
 1. Happy Numbers.
 1. Transform into an Array with No Duplicates.
 1. Convert to Decimal Notation.
+1. Contact List.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
