@@ -188,5 +188,6 @@
 1. Advanced Array Sort.
 1. Happy Numbers.
 1. Transform into an Array with No Duplicates.
+1. Convert to Decimal Notation.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
