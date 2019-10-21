@@ -190,5 +190,6 @@
 1. Transform into an Array with No Duplicates.
 1. Convert to Decimal Notation.
 1. Contact List.
+1. 24-Hour Time.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
