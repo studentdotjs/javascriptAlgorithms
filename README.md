@@ -191,5 +191,6 @@
 1. Convert to Decimal Notation.
 1. Contact List.
 1. 24-Hour Time.
+1. Both Zero, Negative or Positive.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
