@@ -192,5 +192,6 @@
 1. Contact List.
 1. 24-Hour Time.
 1. Both Zero, Negative or Positive.
+1. X and Y Coordinates.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
