@@ -193,5 +193,6 @@
 1. 24-Hour Time.
 1. Both Zero, Negative or Positive.
 1. X and Y Coordinates.
+1. Vowel Families.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
