@@ -194,5 +194,6 @@
 1. Both Zero, Negative or Positive.
 1. X and Y Coordinates.
 1. Vowel Families.
+1. Unique Character Mapping.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
