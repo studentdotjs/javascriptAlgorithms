@@ -195,5 +195,6 @@
 1. X and Y Coordinates.
 1. Vowel Families.
 1. Unique Character Mapping.
+1. Column With Maximum Sum.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
