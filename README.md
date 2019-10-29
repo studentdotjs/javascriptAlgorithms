@@ -196,5 +196,6 @@
 1. Vowel Families.
 1. Unique Character Mapping.
 1. Column With Maximum Sum.
+1. Hole Number Sequence.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
