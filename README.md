@@ -198,5 +198,6 @@
 1. Column With Maximum Sum.
 1. Hole Number Sequence.
 1. Return the Objects Keys and Values.
+1. Convert Key, Values in an Object to Array.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
