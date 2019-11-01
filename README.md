@@ -199,5 +199,6 @@
 1. Hole Number Sequence.
 1. Return the Objects Keys and Values.
 1. Convert Key, Values in an Object to Array.
+1. Hitting the Jackpot.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
