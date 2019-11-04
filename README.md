@@ -201,5 +201,6 @@
 1. Convert Key, Values in an Object to Array.
 1. Hitting the Jackpot.
 1. Something in the Box.
+1. Reverse the Integer.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
