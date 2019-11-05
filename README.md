@@ -202,5 +202,6 @@
 1. Hitting the Jackpot.
 1. Something in the Box.
 1. Reverse the Integer.
+1. Is There an Upward Trend ?
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
