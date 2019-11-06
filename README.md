@@ -203,5 +203,6 @@
 1. Something in the Box.
 1. Reverse the Integer.
 1. Is There an Upward Trend ?
+1. Basic Calculator.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
