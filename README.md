@@ -205,5 +205,6 @@
 1. Is There an Upward Trend ?
 1. Basic Calculator.
 1. Count the Letters and Digits.
+1. Double Letters.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
