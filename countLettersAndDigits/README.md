@@ -9,4 +9,4 @@
 
 > countStrLettersAndDigits("9829527 four seven nine") ➞ {LETTERS: 13, DIGITS: 7} 
 
-Codepen Link: [Count the Letters and Digits]()
+Codepen Link: [Count the Letters and Digits](https://codepen.io/naveencoder/pen/gOOzVEq?editors=0012)

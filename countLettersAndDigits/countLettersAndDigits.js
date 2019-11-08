@@ -20,7 +20,7 @@ let countStrLettersAndDigits = function (str) {
     lettersDigitsCounterObj.LETTERS = lettersCount;
     lettersDigitsCounterObj.DIGITS = digitsCount;
 
-    console.log(lettersDigitsCounterObj);
+    console.log(`In "${str}" there is ${lettersDigitsCounterObj.LETTERS} letters and ${lettersDigitsCounterObj.DIGITS} digits.`);
 
 };
 
