@@ -207,5 +207,6 @@
 1. Count the Letters and Digits.
 1. Double Letters.
 1. Narcissistic Number.
+1. Purge and Organize.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
