@@ -208,5 +208,6 @@
 1. Double Letters.
 1. Narcissistic Number.
 1. Purge and Organize.
+1. Get the Day.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
