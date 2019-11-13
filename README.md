@@ -209,5 +209,6 @@
 1. Narcissistic Number.
 1. Purge and Organize.
 1. Get the Day.
+1. Algebra Sequence.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
