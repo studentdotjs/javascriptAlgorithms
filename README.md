@@ -211,5 +211,6 @@
 1. Get the Day.
 1. Algebra Sequence.
 1. Puzzle Pieces.
+1. Days in a Month.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
