@@ -214,5 +214,6 @@
 1. Days in a Month.
 1. Online Shopping.
 1. Switcharoo.
+1. Accumulating Array.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
