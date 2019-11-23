@@ -215,5 +215,6 @@
 1. Online Shopping.
 1. Switcharoo.
 1. Accumulating Array.
+1. Accumulating Product.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
