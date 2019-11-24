@@ -216,5 +216,6 @@
 1. Switcharoo.
 1. Accumulating Array.
 1. Accumulating Product.
+1. All About Strings.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
