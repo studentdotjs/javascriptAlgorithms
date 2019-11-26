@@ -218,5 +218,6 @@
 1. Accumulating Product.
 1. All About Strings.
 1. AlTeRnAtInG cApS.
+1. Array of Multiples.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
