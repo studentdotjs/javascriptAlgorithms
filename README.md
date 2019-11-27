@@ -219,5 +219,6 @@
 1. All About Strings.
 1. AlTeRnAtInG cApS.
 1. Array of Multiples.
+1. ATM PIN Code Validation.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
