@@ -221,5 +221,6 @@
 1. Array of Multiples.
 1. ATM PIN Code Validation.
 1. Convert Zero and One to 0 and 1.
+1. Amazing Alliteration.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
