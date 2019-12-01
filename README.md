@@ -223,5 +223,6 @@
 1. Convert Zero and One to 0 and 1.
 1. Amazing Alliteration.
 1. Count a Specific Digit.
+1. 5 - Digit Zip Code.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
