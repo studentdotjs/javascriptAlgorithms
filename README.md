@@ -224,5 +224,6 @@
 1. Amazing Alliteration.
 1. Count a Specific Digit.
 1. 5 - Digit Zip Code.
+1. Convenience Store.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
