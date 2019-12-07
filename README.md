@@ -227,5 +227,6 @@
 1. Convenience Store.
 1. Digit Distance.
 1. Calculate the Total Price of Groceries.
+1. Bridge Shuffle.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
