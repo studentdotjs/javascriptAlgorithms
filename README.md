@@ -229,5 +229,6 @@
 1. Calculate the Total Price of Groceries.
 1. Bridge Shuffle.
 1. Building A Staircase.
+1. Count the Number of Duplicate Characters.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
