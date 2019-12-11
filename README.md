@@ -231,5 +231,6 @@
 1. Building A Staircase.
 1. Count the Number of Duplicate Characters.
 1. All Occurrences of an Element in an Array.
+1. Find the First Non-Repeated Character.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
