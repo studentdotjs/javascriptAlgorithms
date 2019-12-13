@@ -233,5 +233,6 @@
 1. All Occurrences of an Element in an Array.
 1. Find the First Non-Repeated Character.
 1. Consonant - Vowel Coding.
+1. Divide Array into Chunks.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
