@@ -234,5 +234,6 @@
 1. Find the First Non-Repeated Character.
 1. Consonant - Vowel Coding.
 1. Divide Array into Chunks.
+1. Find the 2nd Occurrence of "zip" in a String.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
