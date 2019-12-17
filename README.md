@@ -236,5 +236,6 @@
 1. Divide Array into Chunks.
 1. Find the 2nd Occurrence of "zip" in a String.
 1. First Before Second Letter.
+1. Look-And-Say Sequence.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
