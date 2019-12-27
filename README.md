@@ -238,5 +238,6 @@
 1. First Before Second Letter.
 1. Look-And-Say Sequence.
 1. Word Builder.
+1. Grocery Store Prices.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
