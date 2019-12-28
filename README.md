@@ -239,5 +239,6 @@
 1. Look-And-Say Sequence.
 1. Word Builder.
 1. Grocery Store Prices.
+1. Lowercase and Uppercase Map.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
