@@ -240,5 +240,6 @@
 1. Word Builder.
 1. Grocery Store Prices.
 1. Lowercase and Uppercase Map.
+1. Magic Date.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
