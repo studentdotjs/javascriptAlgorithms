@@ -241,5 +241,6 @@
 1. Grocery Store Prices.
 1. Lowercase and Uppercase Map.
 1. Magic Date.
+1. Map the Letters in a String.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
