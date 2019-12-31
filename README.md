@@ -242,5 +242,6 @@
 1. Lowercase and Uppercase Map.
 1. Magic Date.
 1. Map the Letters in a String.
+1. Split String by Identical Characters.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
