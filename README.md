@@ -244,5 +244,6 @@
 1. Map the Letters in a String.
 1. Split String by Identical Characters.
 1. Match the Last Item.
+1. Find Repeating.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
