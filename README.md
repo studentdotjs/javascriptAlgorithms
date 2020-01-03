@@ -245,5 +245,6 @@
 1. Split String by Identical Characters.
 1. Match the Last Item.
 1. Find Repeating.
+1. Max Adjacent Product.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
