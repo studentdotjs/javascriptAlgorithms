@@ -246,5 +246,6 @@
 1. Match the Last Item.
 1. Find Repeating.
 1. Max Adjacent Product.
+1. Find the Odd Integer.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
