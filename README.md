@@ -249,5 +249,6 @@
 1. Find the Odd Integer.
 1. Stretched Words.
 1. Is Making Progress ?.
+1. Sort Positives, Keep Negatives.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
