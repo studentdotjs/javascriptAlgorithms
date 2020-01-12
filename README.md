@@ -250,5 +250,6 @@
 1. Stretched Words.
 1. Is Making Progress ?.
 1. Sort Positives, Keep Negatives.
+1. Positive Dominant.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
