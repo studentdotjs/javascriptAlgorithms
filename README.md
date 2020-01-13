@@ -251,5 +251,6 @@
 1. Is Making Progress ?.
 1. Sort Positives, Keep Negatives.
 1. Positive Dominant.
+1. Leaderboard Sort.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
