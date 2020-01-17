@@ -253,5 +253,6 @@
 1. Positive Dominant.
 1. Leaderboard Sort.
 1. Unmix My Strings.
+1. Next Prime.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
