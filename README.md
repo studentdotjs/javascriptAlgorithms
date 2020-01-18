@@ -254,5 +254,6 @@
 1. Leaderboard Sort.
 1. Unmix My Strings.
 1. Next Prime.
+1. Total Missing Integers.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
