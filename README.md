@@ -255,5 +255,6 @@
 1. Unmix My Strings.
 1. Next Prime.
 1. Total Missing Integers.
+1. Sort a String by Its Last Character.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
