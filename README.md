@@ -257,5 +257,6 @@
 1. Total Missing Integers.
 1. Sort a String by Its Last Character.
 1. Perfect Number.
+1. Merge Two Arrays.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
