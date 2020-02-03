@@ -258,5 +258,6 @@
 1. Sort a String by Its Last Character.
 1. Perfect Number.
 1. Merge Two Arrays.
+1. Digital Vowel Ban.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
