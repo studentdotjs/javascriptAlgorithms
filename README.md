@@ -259,5 +259,6 @@
 1. Perfect Number.
 1. Merge Two Arrays.
 1. Digital Vowel Ban.
+1. Mutations Only: Zeroes to the End.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
