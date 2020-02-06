@@ -261,5 +261,6 @@
 1. Digital Vowel Ban.
 1. Mutations Only: Zeroes to the End.
 1. Who's The Oldest?
+1. Matrix Transpose.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
