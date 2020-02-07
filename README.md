@@ -262,5 +262,6 @@
 1. Mutations Only: Zeroes to the End.
 1. Who's The Oldest?
 1. Matrix Transpose.
+1. Valid Hex Code.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
