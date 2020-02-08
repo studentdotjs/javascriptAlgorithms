@@ -263,5 +263,6 @@
 1. Who's The Oldest?
 1. Matrix Transpose.
 1. Valid Hex Code.
+1. Programming Polyglot.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
