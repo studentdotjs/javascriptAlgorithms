@@ -264,5 +264,6 @@
 1. Matrix Transpose.
 1. Valid Hex Code.
 1. Programming Polyglot.
+1. Replace Integers.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
