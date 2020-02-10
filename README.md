@@ -265,5 +265,6 @@
 1. Valid Hex Code.
 1. Programming Polyglot.
 1. Replace Integers.
+1. Sort by the Letters.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
