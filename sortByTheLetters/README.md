@@ -13,4 +13,4 @@ Note :
 1. **Each String** will only have **One Unique (Lowercase) Letter**.
 1. If given an **Empty Array**, **Show** an **Empty Array** in the console.
 
-Codepen Link: [Sort by the Letters]()
+Codepen Link: [Sort by the Letters](https://codepen.io/javascriptstudent/pen/ExjaBLe?editors=0012)
