@@ -267,5 +267,6 @@
 1. Replace Integers.
 1. Sort by the Letters.
 1. Moran Integer.
+1. Sum Consecutive Integers.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
