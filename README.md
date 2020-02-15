@@ -268,5 +268,6 @@
 1. Sort by the Letters.
 1. Moran Integer.
 1. Sum Consecutive Integers.
+1. Ranged Reversal.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
