@@ -269,5 +269,6 @@
 1. Moran Integer.
 1. Sum Consecutive Integers.
 1. Ranged Reversal.
+1. Scoring System.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
