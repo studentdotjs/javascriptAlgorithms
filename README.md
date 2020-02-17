@@ -271,5 +271,6 @@
 1. Ranged Reversal.
 1. Scoring System.
 1. The Undulating Integer.
+1. Sort By N Character.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
