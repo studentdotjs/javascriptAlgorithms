@@ -270,5 +270,6 @@
 1. Sum Consecutive Integers.
 1. Ranged Reversal.
 1. Scoring System.
+1. The Undulating Integer.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
