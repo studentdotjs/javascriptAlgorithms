@@ -272,5 +272,7 @@
 1. Scoring System.
 1. The Undulating Integer.
 1. Sort By N Character.
+1. Moving to the End.
+1. How Many "Prime Numbers" Are There?
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
