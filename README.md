@@ -275,5 +275,6 @@
 1. Moving to the End.
 1. How Many "Prime Numbers" Are There?
 1. Sum of the Odd Numbers.
+1. Array of Word Lengths.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
