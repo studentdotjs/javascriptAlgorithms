@@ -276,5 +276,6 @@
 1. How Many "Prime Numbers" Are There?
 1. Sum of the Odd Numbers.
 1. Array of Word Lengths.
+1. Stupid Addition.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
