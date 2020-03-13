@@ -277,5 +277,6 @@
 1. Sum of the Odd Numbers.
 1. Array of Word Lengths.
 1. Stupid Addition.
+1. Are the Numbers Equal?
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
