@@ -278,5 +278,6 @@
 1. Array of Word Lengths.
 1. Stupid Addition.
 1. Are the Numbers Equal?
+1. Less Than 100?
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
