@@ -279,5 +279,6 @@
 1. Stupid Addition.
 1. Are the Numbers Equal?
 1. Less Than 100?
+1. Find The Primorial.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
