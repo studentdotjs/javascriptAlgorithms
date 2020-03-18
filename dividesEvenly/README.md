@@ -8,6 +8,6 @@
 
 > dividesEvenlyOrNot(20, 20) ➞ true
 
-> dividesEvenlyOrNot(33, 44) ➞ false 
+> dividesEvenlyOrNot(33, 45) ➞ false 
 
 Codepen Link: [Divides Evenly](https://codepen.io/javascriptstudent/pen/BaNVZKa?editors=0012)
