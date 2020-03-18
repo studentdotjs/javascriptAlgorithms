@@ -282,5 +282,6 @@
 1. Find The Primorial.
 1. Alphabetically Sorted.
 1. Case Insensitive Comparison.
+1. Divides Evenly.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
