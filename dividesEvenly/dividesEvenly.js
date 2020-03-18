@@ -10,4 +10,4 @@ let dividesEvenlyOrNot = function (dividend, divisor) {
 
 };
 
-dividesEvenlyOrNot(30, 17);
+dividesEvenlyOrNot(30, 15);
