@@ -284,6 +284,6 @@
 1. Case Insensitive Comparison.
 1. Divides Evenly.
 1. Summing the Squares.
-1. 
+1. Who is Currently Winning.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
