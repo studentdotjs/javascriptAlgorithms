@@ -285,5 +285,6 @@
 1. Divides Evenly.
 1. Summing the Squares.
 1. Who is Currently Winning.
+1. Perfect Square Patch.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
