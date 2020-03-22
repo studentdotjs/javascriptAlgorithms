@@ -286,5 +286,6 @@
 1. Summing the Squares.
 1. Who is Currently Winning.
 1. Perfect Square Patch.
+1. Convert Hours into Seconds.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
