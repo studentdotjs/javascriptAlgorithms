@@ -287,5 +287,6 @@
 1. Who is Currently Winning.
 1. Perfect Square Patch.
 1. Convert Hours into Seconds.
+1. Sum of All Even Numbers in Given Range.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
