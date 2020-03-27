@@ -288,5 +288,6 @@
 1. Perfect Square Patch.
 1. Convert Hours into Seconds.
 1. Sum of All Even Numbers in Given Range.
+1. Check if One Array is a Subset of Another.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
