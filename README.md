@@ -290,5 +290,6 @@
 1. Sum of All Even Numbers in Given Range.
 1. Check if One Array is a Subset of Another.
 1. Halve and Halve Again.
+1. Multiply Every Array Item by Two.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
