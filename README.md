@@ -293,5 +293,6 @@
 1. Multiply Every Array Item by Two.
 1. Number of Even or Odd Digits.
 1. Xs and Os Nobody Knows.
+1. Sort Odds Keeping Evens in Place.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
