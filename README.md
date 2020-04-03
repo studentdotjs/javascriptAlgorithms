@@ -295,5 +295,6 @@
 1. Xs and Os Nobody Knows.
 1. Sort Odds Keeping Evens in Place.
 1. Count the Capital Letters.
+1. Remove the Special Characters from A String.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
