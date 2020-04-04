@@ -296,5 +296,6 @@
 1. Sort Odds Keeping Evens in Place.
 1. Count the Capital Letters.
 1. Remove the Special Characters from A String.
+1. Larger than All Numbers to Their Right.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
