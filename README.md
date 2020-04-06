@@ -298,5 +298,6 @@
 1. Remove the Special Characters from A String.
 1. Larger than All Numbers to Their Right.
 1. Remove Surrounding Duplicate Items.
+1. Count Letters in a Word Search.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
