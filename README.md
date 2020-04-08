@@ -300,5 +300,6 @@
 1. Remove Surrounding Duplicate Items.
 1. Count Letters in a Word Search.
 1. Which Number Is Not like the Others?.
+1. Filter Primes from an Array.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
