@@ -302,5 +302,6 @@
 1. Which Number Is Not like the Others?.
 1. Filter Primes from an Array.
 1. Remove Duplicates from an Array.
+1. Longest Sequence of Consecutive Zeroes.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
