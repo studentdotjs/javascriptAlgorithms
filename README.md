@@ -304,6 +304,6 @@
 1. Remove Duplicates from an Array.
 1. Longest Sequence of Consecutive Zeroes.
 1. Reverse the Order of Words with Five Letters or More.
-1. .
+1. Return the End Letters of Numbers.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
