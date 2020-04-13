@@ -305,5 +305,6 @@
 1. Longest Sequence of Consecutive Zeroes.
 1. Reverse the Order of Words with Five Letters or More.
 1. Return the End Letters of Numbers.
+1. Functioninator 8000.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
