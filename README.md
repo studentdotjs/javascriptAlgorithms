@@ -307,5 +307,6 @@
 1. Return the End Letters of Numbers.
 1. Functioninator 8000.
 1. Concatenate N Arrays Into One Array.
+1. The 3 Programmers Problem.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
