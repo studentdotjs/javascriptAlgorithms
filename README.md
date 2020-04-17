@@ -308,5 +308,6 @@
 1. Functioninator 8000.
 1. Concatenate N Arrays Into One Array.
 1. The 3 Programmers Problem.
+1. Add N Consecutive List of Numbers.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
