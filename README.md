@@ -310,5 +310,6 @@
 1. The 3 Programmers Problem.
 1. Add N Consecutive List of Numbers.
 1. Additive Inverse.
+1. Applying Discounts.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
