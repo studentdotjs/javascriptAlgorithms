@@ -311,5 +311,6 @@
 1. Add N Consecutive List of Numbers.
 1. Additive Inverse.
 1. Applying Discounts.
+1. Convert Hours and Minutes into Seconds.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
