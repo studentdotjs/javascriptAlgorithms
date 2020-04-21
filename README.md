@@ -312,5 +312,6 @@
 1. Additive Inverse.
 1. Applying Discounts.
 1. Convert Hours and Minutes into Seconds.
+1. Flip M's to W's.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
