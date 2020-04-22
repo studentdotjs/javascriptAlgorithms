@@ -313,5 +313,6 @@
 1. Applying Discounts.
 1. Convert Hours and Minutes into Seconds.
 1. Flip M's to W's.
+1. Find the Largest Numbers in a Group of Arrays.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
