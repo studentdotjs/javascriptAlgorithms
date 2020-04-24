@@ -315,5 +315,6 @@
 1. Flip M's to W's.
 1. Find the Largest Numbers in a Group of Arrays.
 1. Spaces Between Each Character.
+1. Find the Smallest Number in an Array.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
