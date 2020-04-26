@@ -317,5 +317,6 @@
 1. Spaces Between Each Character.
 1. Find the Smallest Number in an Array.
 1. Return the Total Number of Arguments.
+1. Absolute Sum.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
