@@ -319,5 +319,6 @@
 1. Return the Total Number of Arguments.
 1. Absolute Sum.
 1. Add the Index.
+1. Find the Index of Number.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
