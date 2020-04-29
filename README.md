@@ -320,5 +320,6 @@
 1. Absolute Sum.
 1. Add the Index.
 1. Find the Index of Number.
+1. Array from Comma-Delimited String.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
