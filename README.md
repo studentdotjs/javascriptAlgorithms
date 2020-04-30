@@ -321,5 +321,6 @@
 1. Add the Index.
 1. Find the Index of Number.
 1. Array from Comma-Delimited String.
+1. Array of Consecutive Integers.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
