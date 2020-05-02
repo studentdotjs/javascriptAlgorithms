@@ -323,5 +323,6 @@
 1. Array from Comma-Delimited String.
 1. Array of Consecutive Integers.
 1. Reverse Letters, Keep Numbers in Place.
+1. Number of Times a Character Appears.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
