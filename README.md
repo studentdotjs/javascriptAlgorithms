@@ -324,5 +324,6 @@
 1. Array of Consecutive Integers.
 1. Reverse Letters, Keep Numbers in Place.
 1. Number of Times a Character Appears.
+1. Get the Sum of All Array Numbers.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
