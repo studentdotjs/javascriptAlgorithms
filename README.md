@@ -325,5 +325,6 @@
 1. Reverse Letters, Keep Numbers in Place.
 1. Number of Times a Character Appears.
 1. Get the Sum of All Array Numbers.
+1. .
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
