@@ -326,5 +326,6 @@
 1. Number of Times a Character Appears.
 1. Get the Sum of All Array Numbers.
 1. Negate the Array of Numbers.
+1. Difference of Max and Min Numbers in Array.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
