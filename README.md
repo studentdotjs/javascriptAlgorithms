@@ -328,5 +328,6 @@
 1. Negate the Array of Numbers.
 1. Difference of Max and Min Numbers in Array.
 1. Exists a Higher Number?.
+1. Free Coffee Cups.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
