@@ -330,5 +330,6 @@
 1. Exists a Higher Number?.
 1. Free Coffee Cups.
 1. Multi-Division.
+1. Reverse and Capitalize.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
