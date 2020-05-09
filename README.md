@@ -329,5 +329,6 @@
 1. Difference of Max and Min Numbers in Array.
 1. Exists a Higher Number?.
 1. Free Coffee Cups.
+1. Multi-Division.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
