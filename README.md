@@ -331,5 +331,6 @@
 1. Free Coffee Cups.
 1. Multi-Division.
 1. Reverse and Capitalize.
+1. Show Only the Integer.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
