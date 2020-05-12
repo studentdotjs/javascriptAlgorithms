@@ -332,5 +332,6 @@
 1. Multi-Division.
 1. Reverse and Capitalize.
 1. Show Only the Integer.
+1. Check if a String Contains only Identical Characters.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
