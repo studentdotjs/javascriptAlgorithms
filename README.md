@@ -334,5 +334,6 @@
 1. Show Only the Integer.
 1. Check if a String Contains only Identical Characters.
 1. Hiding Credit Card Number.
+1. Half, Quarter and Eighth of a Number.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
