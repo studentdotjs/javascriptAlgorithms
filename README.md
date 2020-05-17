@@ -335,5 +335,6 @@
 1. Check if a String Contains only Identical Characters.
 1. Hiding Credit Card Number.
 1. Half, Quarter and Eighth of a Number.
+1. Is the Last Character an N?.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
