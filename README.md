@@ -336,5 +336,6 @@
 1. Hiding Credit Card Number.
 1. Half, Quarter and Eighth of a Number.
 1. Is the Last Character an N?.
+1. Fraction Greater Than One.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
