@@ -337,5 +337,6 @@
 1. Half, Quarter and Eighth of a Number.
 1. Is the Last Character an N?.
 1. Fraction Greater Than One.
+1. Default Mood.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
