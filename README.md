@@ -338,5 +338,6 @@
 1. Is the Last Character an N?.
 1. Fraction Greater Than One.
 1. Default Mood.
+1. Shapes With N Sides.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
