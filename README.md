@@ -340,5 +340,6 @@
 1. Default Mood.
 1. Shapes With N Sides.
 1. Coding Website Score Calculator.
+1. Limit A Number's Value.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
