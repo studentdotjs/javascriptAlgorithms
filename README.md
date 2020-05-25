@@ -341,5 +341,6 @@
 1. Shapes With N Sides.
 1. Coding Website Score Calculator.
 1. Limit A Number's Value.
+1. Date Format.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
