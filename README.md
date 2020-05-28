@@ -343,5 +343,6 @@
 1. Limit A Number's Value.
 1. Date Format.
 1. Flip the Boolean.
+1. Say Hello to Guests.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
