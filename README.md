@@ -345,5 +345,6 @@
 1. Flip the Boolean.
 1. Say Hello to Guests.
 1. Find the Perimeter of A Rectangle.
+1. Alphabet Soup.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
