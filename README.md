@@ -347,5 +347,6 @@
 1. Find the Perimeter of A Rectangle.
 1. Alphabet Soup.
 1. Calculate Determinant of A 2x2 Matrix.
+1. Next Element in Arithmetic Sequence.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
