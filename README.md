@@ -348,5 +348,6 @@
 1. Alphabet Soup.
 1. Calculate Determinant of A 2x2 Matrix.
 1. Next Element in Arithmetic Sequence.
+1. Check If String Ending Matches Second String. 
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
