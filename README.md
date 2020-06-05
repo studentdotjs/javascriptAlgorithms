@@ -350,5 +350,6 @@
 1. Next Element in Arithmetic Sequence.
 1. Check If String Ending Matches Second String.
 1. Profit Margin.
+1. Sort Numbers in Descending Order.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
