@@ -351,5 +351,6 @@
 1. Check If String Ending Matches Second String.
 1. Profit Margin.
 1. Sort Numbers in Descending Order.
+1. Find the Smallest and Biggest Numbers.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
