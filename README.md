@@ -354,5 +354,6 @@
 1. Find the Smallest and Biggest Numbers.
 1. Special Arrays.
 1. Video Length in Seconds.
+1. Total Volume.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
