@@ -355,5 +355,6 @@
 1. Special Arrays.
 1. Video Length in Seconds.
 1. Total Volume.
+1. Censor Words Longer Than 4 Characters.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
