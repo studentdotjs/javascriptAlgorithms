@@ -357,5 +357,6 @@
 1. Total Volume.
 1. Censor Words Longer Than 4 Characters.
 1. One Odd and One Even.
+1. Square Every Digit.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
