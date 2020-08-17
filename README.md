@@ -358,5 +358,6 @@
 1. Censor Words Longer Than 4 Characters.
 1. One Odd and One Even.
 1. Square Every Digit.
+1. Integer to Reversed Array.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
