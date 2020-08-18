@@ -359,5 +359,6 @@
 1. One Odd and One Even.
 1. Square Every Digit.
 1. Integer to Reversed Array.
+1. Sort Numbers in Ascending Order.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
