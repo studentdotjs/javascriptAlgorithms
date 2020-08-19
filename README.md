@@ -360,5 +360,6 @@
 1. Square Every Digit.
 1. Integer to Reversed Array.
 1. Sort Numbers in Ascending Order.
+1. Show the Highest and Lowest Numbers.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
