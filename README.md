@@ -361,5 +361,6 @@
 1. Integer to Reversed Array.
 1. Sort Numbers in Ascending Order.
 1. Show the Highest and Lowest Numbers.
+1. Stripping A Sentence.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
