@@ -362,5 +362,6 @@
 1. Sort Numbers in Ascending Order.
 1. Show the Highest and Lowest Numbers.
 1. Stripping A Sentence.
+1. Create A Contact Number.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
