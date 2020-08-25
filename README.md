@@ -364,5 +364,6 @@
 1. Stripping A Sentence.
 1. Create A Contact Number.
 1. Calculate the Mean.
+1. Explosion Intensity.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
