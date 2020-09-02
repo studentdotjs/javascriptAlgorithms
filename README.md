@@ -366,5 +366,6 @@
 1. Calculate the Mean.
 1. Explosion Intensity.
 1. Most Left Digit.
+1. Say Hello Say Bye.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
