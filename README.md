@@ -368,5 +368,6 @@
 1. Most Left Digit.
 1. Say Hello Say Bye.
 1. Omnipresent Value.
+1. Check if One Array can be Nested in Another.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
