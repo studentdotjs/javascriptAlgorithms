@@ -369,5 +369,6 @@
 1. Say Hello Say Bye.
 1. Omnipresent Value.
 1. Check if One Array can be Nested in Another.
+1. What's the Missing Letter?.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
