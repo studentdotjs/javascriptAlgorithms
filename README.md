@@ -372,5 +372,6 @@
 1. What's the Missing Letter?
 1. Chat Room Status.
 1. Is Number Symmetrical?
+1. Broken Bridge.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
