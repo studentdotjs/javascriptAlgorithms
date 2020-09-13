@@ -373,5 +373,6 @@
 1. Chat Room Status.
 1. Is Number Symmetrical?
 1. Broken Bridge.
+1. Capitalize by ASCII.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
