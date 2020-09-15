@@ -374,6 +374,7 @@
 1. Is Number Symmetrical?
 1. Broken Bridge.
 1. Capitalize by ASCII.
-1. How Many Decimal Places?.
+1. How Many Decimal Places?
+1. Join 2 Portions of A Path.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
