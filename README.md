@@ -376,5 +376,6 @@
 1. Capitalize by ASCII.
 1. How Many Decimal Places?
 1. Join 2 Portions of A Path.
+1. Finding Nemo.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
