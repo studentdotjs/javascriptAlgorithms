@@ -15,4 +15,4 @@ Note:
 1. Nemo **Should Always** look like **Nemo**, and **Not NeMo** or other **Capital Variations**.
 1. If there are **Multiple Nemo's** in argument string, **Only Show** the **First One** in the console. 
 
-Codepen Link: [Finding Nemo]()
+Codepen Link: [Finding Nemo](https://codepen.io/javascriptstudent/pen/mdPGOdM?editors=0012)
