@@ -377,5 +377,6 @@
 1. How Many Decimal Places?
 1. Join 2 Portions of A Path.
 1. Finding Nemo.
+1. Numbers to Arrays and Vice Versa.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
