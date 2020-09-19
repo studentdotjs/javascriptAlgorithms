@@ -378,5 +378,6 @@
 1. Join 2 Portions of A Path.
 1. Finding Nemo.
 1. Numbers to Arrays and Vice Versa.
+1. Snail Race.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
