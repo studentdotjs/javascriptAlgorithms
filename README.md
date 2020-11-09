@@ -379,5 +379,6 @@
 1. Finding Nemo.
 1. Numbers to Arrays and Vice Versa.
 1. Snail Race.
+1. Pair Management.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
