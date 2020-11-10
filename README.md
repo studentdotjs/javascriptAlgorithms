@@ -380,5 +380,6 @@
 1. Numbers to Arrays and Vice Versa.
 1. Snail Race.
 1. Pair Management.
+1. Inches to Feet.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
