@@ -381,5 +381,6 @@
 1. Snail Race.
 1. Pair Management.
 1. Inches to Feet.
+1. Is the Word Odd or Even?
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
