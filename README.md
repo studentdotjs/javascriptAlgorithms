@@ -382,5 +382,6 @@
 1. Pair Management.
 1. Inches to Feet.
 1. Is the Word Odd or Even?
+1. Word Numbers!
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
