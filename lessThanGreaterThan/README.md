@@ -11,4 +11,4 @@
 
 > numsOnlyLessAndGreaterThan(10, 55, [12, 26, 18, 8, 9, 15]) ➞ [12, 26, 18, 15] 
 
-Codepen Link: [Less Than, Greater Than]()
+Codepen Link: [Less Than, Greater Than](https://codepen.io/javascriptstudent/pen/pobqmOz?editors=0012)
