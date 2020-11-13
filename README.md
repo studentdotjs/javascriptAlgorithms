@@ -383,5 +383,6 @@
 1. Inches to Feet.
 1. Is the Word Odd or Even?
 1. Word Numbers!
+1. Less Than, Greater Than.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
