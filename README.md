@@ -384,5 +384,6 @@
 1. Is the Word Odd or Even?
 1. Word Numbers!
 1. Less Than, Greater Than.
+1. WordCharWord.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
