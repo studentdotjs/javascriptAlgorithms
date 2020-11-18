@@ -386,5 +386,6 @@
 1. Less Than, Greater Than.
 1. WordCharWord.
 1. Does a Number Exist?
+1. How Many D's Are There?
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
