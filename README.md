@@ -387,5 +387,6 @@
 1. WordCharWord.
 1. Does a Number Exist?
 1. How Many D's Are There?
+1. Replace Every Vowel with E.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
