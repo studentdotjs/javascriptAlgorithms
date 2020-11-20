@@ -388,5 +388,6 @@
 1. Does a Number Exist?
 1. How Many D's Are There?
 1. Replace Every Vowel with E.
+1. True Ones, False Zeros.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
