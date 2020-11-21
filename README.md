@@ -389,5 +389,6 @@
 1. How Many D's Are There?
 1. Replace Every Vowel with E.
 1. True Ones, False Zeros.
+1. Little Dictionary.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
