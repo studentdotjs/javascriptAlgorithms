@@ -1,4 +1,4 @@
-### Full Length of Google - Create a function that takes:
+### Full Length of N Google - Create a function that takes:
 
 #### Difficulty - Very Easy
 
@@ -13,4 +13,4 @@
 
 Note: If **n** is **Equal** to Or **Less than 1**, Show **invalid** in the console.
 
-Codepen Link: [Full Length of Google](https://codepen.io/javascriptstudent/pen/QWEezdz)
+Codepen Link: [Full Length of N Google](https://codepen.io/javascriptstudent/pen/QWEezdz)
