@@ -13,4 +13,4 @@
 
 Note: If **n** is **Equal** to Or **Less than 1**, Show **invalid** in the console.
 
-Codepen Link: [Full Length of Google]()
+Codepen Link: [Full Length of Google](https://codepen.io/javascriptstudent/pen/QWEezdz)
