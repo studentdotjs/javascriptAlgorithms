@@ -390,6 +390,6 @@
 1. Replace Every Vowel with E.
 1. True Ones, False Zeros.
 1. Little Dictionary.
-1. Full Length of a Google.
+1. Full Length of N Google.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
