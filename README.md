@@ -391,5 +391,6 @@
 1. True Ones, False Zeros.
 1. Little Dictionary.
 1. Full Length of N Google.
+1. Next Integer Greater Than A and B and Divisible by B.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
