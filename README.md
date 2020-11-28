@@ -393,5 +393,6 @@
 1. Full Length of N Google.
 1. Next Integer Greater Than A and B and Divisible by B.
 1. Convert All Array Items to String.
+1. Modifying the Last String Character.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
