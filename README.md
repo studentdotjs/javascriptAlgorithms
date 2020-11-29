@@ -394,5 +394,6 @@
 1. Next Integer Greater Than A and B and Divisible by B.
 1. Convert All Array Items to String.
 1. Modifying the Last String Character.
+1. Return the Last Item.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
