@@ -395,5 +395,6 @@
 1. Convert All Array Items to String.
 1. Modifying the Last String Character.
 1. Return the Last Item.
+1. Calculate Using String Operation.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
