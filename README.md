@@ -396,5 +396,6 @@
 1. Modifying the Last String Character.
 1. Return the Last Item.
 1. Calculate Using String Operation.
+1. Owofied a Sentence.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
