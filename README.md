@@ -397,5 +397,6 @@
 1. Return the Last Item.
 1. Calculate Using String Operation.
 1. Owofied a Sentence.
+1. Create Mirror Array.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
