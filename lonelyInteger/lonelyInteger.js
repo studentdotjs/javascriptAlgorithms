@@ -15,6 +15,7 @@ const findLonelyInt = (intArr) => {
 				lonelyInt = intArr[i];
 
 				break;
+
 			}
 
 		} else {
