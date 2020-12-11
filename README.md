@@ -399,5 +399,6 @@
 1. Owofied a Sentence.
 1. Create Mirror Array.
 1. Lonely Integer.
+1. Array Indexing.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
