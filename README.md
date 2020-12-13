@@ -401,5 +401,6 @@
 1. Lonely Integer.
 1. Array Indexing.
 1. Count Total Capital Letters.
+1. Count Total Claps.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
