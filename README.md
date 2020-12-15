@@ -403,5 +403,6 @@
 1. Count Total Capital Letters.
 1. Count Total Claps.
 1. Is Int 10.
+1. Increment Each Array Integer.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
