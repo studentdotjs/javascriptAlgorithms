@@ -404,5 +404,6 @@
 1. Count Total Claps.
 1. Is Int 10.
 1. Increment Each Array Integer.
+1. Basketball Points.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
