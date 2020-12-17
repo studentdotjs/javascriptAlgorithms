@@ -405,5 +405,6 @@
 1. Is Int 10.
 1. Increment Each Array Integer.
 1. Basketball Points.
+1. Bigger Integer Between Two.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
