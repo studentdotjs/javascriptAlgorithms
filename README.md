@@ -406,5 +406,6 @@
 1. Increment Each Array Integer.
 1. Basketball Points.
 1. Bigger Integer Between Two.
+1. Many Operators.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
