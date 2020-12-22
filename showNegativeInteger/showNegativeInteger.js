@@ -1,6 +1,6 @@
 const showNegtiveInt = (int) => {
 
-	let negativeInt = 0 - int;
+	let negativeInt = int > 0 ? 0 - int : int;
 
 	console.log(negativeInt);
 
