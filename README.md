@@ -410,5 +410,6 @@
 1. Sort Word's Letters.
 1. Find Cube of Integer.
 1. The Fifth Argument.
+1. Show Negative Integer.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
