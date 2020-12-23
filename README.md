@@ -411,5 +411,6 @@
 1. Find Cube of Integer.
 1. The Fifth Argument.
 1. Show Negative Integer.
+1. Outlier Integer.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
