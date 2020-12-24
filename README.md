@@ -412,5 +412,6 @@
 1. The Fifth Argument.
 1. Show Negative Integer.
 1. Outlier Integer.
+1. Nth Even Integer.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
