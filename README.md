@@ -413,5 +413,6 @@
 1. Show Negative Integer.
 1. Outlier Integer.
 1. Nth Even Integer.
+1. Add Every Number.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
