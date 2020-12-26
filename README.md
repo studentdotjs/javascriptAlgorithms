@@ -414,5 +414,6 @@
 1. Outlier Integer.
 1. Nth Even Integer.
 1. Add Every Number.
+1. Slice Check Repeat Concatenate.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
