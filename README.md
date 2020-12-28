@@ -416,5 +416,6 @@
 1. Add Every Number.
 1. Slice Check Repeat Concatenate.
 1. End Corona.
+1. Recreating the String.length Property.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
