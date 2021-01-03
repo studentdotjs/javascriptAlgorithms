@@ -417,6 +417,7 @@
 1. Slice Check Repeat Concatenate.
 1. End Corona.
 1. Recreating the String.length Property.
-1. String Pairs
+1. String Pairs.
+1. YouTube Upload Count.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
