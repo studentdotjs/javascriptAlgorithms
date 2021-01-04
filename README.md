@@ -419,5 +419,6 @@
 1. Recreating the String.length Property.
 1. String Pairs.
 1. YouTube Upload Count.
+1. Nth Smallest Integer.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
