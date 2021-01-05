@@ -420,5 +420,6 @@
 1. String Pairs.
 1. YouTube Upload Count.
 1. Nth Smallest Integer.
+1. Same Number of Unique Elements.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
