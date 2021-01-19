@@ -424,5 +424,6 @@
 1. Lexicographically First and Last.
 1. Drinks Allowed?
 1. String and Number Conversions.
+1. Reverse Psychology.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
