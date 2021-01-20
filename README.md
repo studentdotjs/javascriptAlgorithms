@@ -425,5 +425,6 @@
 1. Drinks Allowed?
 1. String and Number Conversions.
 1. Reverse Psychology.
+1. Keyboard Mistakes.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
