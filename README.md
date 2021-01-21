@@ -426,5 +426,6 @@
 1. String and Number Conversions.
 1. Reverse Psychology.
 1. Keyboard Mistakes.
+1. Rotate the List by One.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
