@@ -428,5 +428,6 @@
 1. Keyboard Mistakes.
 1. Rotate the List by One.
 1. Boolean to String Conversion.
+1. Arithmetic Progression.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
