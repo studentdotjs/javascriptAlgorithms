@@ -429,5 +429,6 @@
 1. Rotate the List by One.
 1. Boolean to String Conversion.
 1. Arithmetic Progression.
+1. Repeat String.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
