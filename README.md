@@ -420,6 +420,7 @@
 1. String Pairs.
 1. YouTube Upload Count.
 1. Nth Smallest Integer.
+1. Create N Integer List.
 1. Same Number of Unique Elements.
 1. Lexicographically First and Last.
 1. Drinks Allowed?
