@@ -431,5 +431,6 @@
 1. Boolean to String Conversion.
 1. Arithmetic Progression.
 1. Repeat String.
+1. Create N Integer List.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
