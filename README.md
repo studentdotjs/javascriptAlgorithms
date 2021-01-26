@@ -432,5 +432,6 @@
 1. Arithmetic Progression.
 1. Repeat String.
 1. Create N Integer List.
+1. Equality Check.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
