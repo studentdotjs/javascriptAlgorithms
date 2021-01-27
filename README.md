@@ -433,5 +433,6 @@
 1. Repeat String.
 1. Create N Integer List.
 1. Equality Check.
+1. Area of A Rectangle.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
