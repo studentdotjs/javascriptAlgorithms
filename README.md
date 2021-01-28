@@ -434,5 +434,6 @@
 1. Create N Integer List.
 1. Equality Check.
 1. Area of A Rectangle.
+1. Nth Number in An Array.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
