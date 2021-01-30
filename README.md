@@ -436,5 +436,6 @@
 1. Area of A Rectangle.
 1. Nth Number in An Array.
 1. N Table + 1.
+1. Trimmed Average.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
