@@ -437,5 +437,6 @@
 1. Nth Number in An Array.
 1. N Table + 1.
 1. Trimmed Average.
+1. Greet the User.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
