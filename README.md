@@ -438,5 +438,6 @@
 1. N Table + 1.
 1. Trimmed Average.
 1. Greet the User.
+1. Fix Basic Calculator.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
