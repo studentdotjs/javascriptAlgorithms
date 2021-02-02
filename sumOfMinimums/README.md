@@ -2,7 +2,7 @@
 
 #### Difficulty - Very Easy 
 
-1. An **2D Array** of **Numbers **as an argument.
+1. An **2D Array** of **Numbers** as an argument.
 1. **Adds** the **Minimum Value** of **Each Array** of **2D Argument Array** and Shows the **Total** in the **Console**.
 
 > sumMinimumNums([[22, 2021], [9, 3, 8] , [42, 892, 12, 1256]]) ➞ 37  
