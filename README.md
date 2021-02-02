@@ -439,5 +439,6 @@
 1. Trimmed Average.
 1. Greet the User.
 1. Fix Basic Calculator.
+1. Sum of Minimums.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
