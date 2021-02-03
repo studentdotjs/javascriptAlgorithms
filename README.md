@@ -440,5 +440,6 @@
 1. Greet the User.
 1. Fix Basic Calculator.
 1. Sum of Minimums.
+1. Four Passengers and A Driver.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
