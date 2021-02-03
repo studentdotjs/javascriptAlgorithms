@@ -2,8 +2,10 @@
 
 ### List of JavaScript Algorithms are:
 
-1. Sum Of Two Numbers.
-1. Reverse A String.
+### Difficulty - Very Easy
+
+1. Sum of Two Numbers.
+1. Reverse the Order of A String.
 1. Longest Word In A String.
 1. Next Number from the Passed Integer.
 1. Is the Number Less than or Equal to Zero ?
