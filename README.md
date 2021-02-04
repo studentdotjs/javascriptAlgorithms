@@ -443,5 +443,6 @@
 1. Fix Basic Calculator.
 1. Sum of Minimums.
 1. Four Passengers and A Driver.
+1. Invert an Array.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
