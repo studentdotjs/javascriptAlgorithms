@@ -1,19 +1,15 @@
-### Narcissistic Number - Create a function that takes: 
+### Narcissistic Number - Create A Function that Takes:  
 
-1. One **Number** as an argument. 
-1. Shows **True** in the console if, the **Argumnet Number** is  a **Narcissistic Number**.
-1. Otherwise, shows **False**.
+1. A **Number** as an argument.
+1. Shows **true** in the **Console**, If the **Argument Number** is **A Narcissistic Number**.
+1. Otherwise shows **false**.
 
-> narcissisticNumberOrNot(542) ➞ false 
+> checkNarcissisticNumber(371) ➞ true  
 
-> narcissisticNumberOrNot(7) ➞ true
+> checkNarcissisticNumber(1032) ➞ false
 
-> narcissisticNumberOrNot(2019) ➞ false
+> checkNarcissisticNumber(54748) ➞ true
 
-Note : A **Number** is **Narcissistic** when the **Sum** of its **Digits**, with **Each Digit** raised to the **Power** of **Digits Quantity**, is **Equal** to the **Number Itself**.
+Note: A **Narcissistic Number** is **A Number** that is the **Sum** of its **Own Digits Each Raised** to the **Power** of the **Number** of **Digits**.
 
-Examples :
-1. 153 ➞ 3 digits ➞ 1³ + 5³ + 3³ = 1 + 125 + 27 = 153 ➞ Narcissistic
-1. 88 ➞ 2 digits ➞ 8² + 8² = 64 + 64 = 128 ➞ Not Narcissistic 
-
-Codepen Link: [Narcissistic Number](https://codepen.io/naveencoder/pen/qBBKoOw?editors=0012)
+Codepen Link: [Narcissistic Number](https://codepen.io/javascriptstudent/pen/qBBKoOw)
