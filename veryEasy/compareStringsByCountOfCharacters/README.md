@@ -1,6 +1,6 @@
 ### Compare Strings by Count of Characters - Create A Function that Takes:
 
-1. **Two Strings** as an Argument.
+1. **Two Strings** as an **Argument**.
 1. Shows **true** in the **Console**, If the **Total Characters** of **Both Argument String** is **Equal**.
 1. Otherwise shows **false**.
 
