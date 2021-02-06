@@ -445,5 +445,6 @@
 1. Four Passengers and A Driver.
 1. Invert an Array.
 1. Narcissistic Number.
+1. Let's Fuel Up!.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
