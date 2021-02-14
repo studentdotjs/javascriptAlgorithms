@@ -447,5 +447,6 @@
 1. Narcissistic Number.
 1. Let's Fuel Up!
 1. Simple Alphabets.
+1. Return Types.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
