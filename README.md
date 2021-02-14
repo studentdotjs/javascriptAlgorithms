@@ -10,7 +10,7 @@
 1. Is the Number Less than Or Equal to Zero?
 1. Is the Number Even or Odd?
 1. Check if an Integer is Divisible By Five.
-1. Next Number from the Passed Integer.
+1. Return the Next Number from the Integer Passed.
 1. Compare Strings by Count of Characters.
 1. Area of a Triangle.
 1. Is the String Empty ?
