@@ -5,8 +5,8 @@
 ### Difficulty - Very Easy
 
 1. Longest Word in A String.
-1. Return the Sum of Two Numbers.
 1. Reverse the Order of A String.
+1. Return the Sum of Two Numbers.
 1. Is the Number Less than Or Equal to Zero?
 1. Is the Number Even or Odd?
 1. Check if an Integer is Divisible By Five.
