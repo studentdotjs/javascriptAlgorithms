@@ -449,5 +449,6 @@
 1. Simple Alphabets.
 1. Return Types.
 1. Moving House.
+1. Equal to 7 (Fix the Expression).
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
