@@ -1,4 +1,4 @@
-// 20.05.2019 - Using Function Declaration
+// 17.04.2019 - Using Function Declaration
 
 function nextInteger(int) {
 
