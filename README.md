@@ -450,5 +450,6 @@
 1. Return Types.
 1. Moving House.
 1. Equal to 7 (Fix the Expression).
+1. Sum Greater Than Five.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
