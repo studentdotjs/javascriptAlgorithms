@@ -451,5 +451,6 @@
 1. Moving House.
 1. Equal to 7 (Fix the Expression).
 1. Sum Greater Than Five.
+1. Remove Numbers from the String (Buggy Code (Part 6)).
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
