@@ -9,9 +9,9 @@
 1. Return the Sum of Two Numbers.
 1. Return the Next Number from the Integer Passed.
 1. Is the Number Less than Or Equal to Zero?
+1. Compare Strings by Count of Characters.
 1. Is the Number Even or Odd?
 1. Check if an Integer is Divisible By Five.
-1. Compare Strings by Count of Characters.
 1. Area of a Triangle.
 1. Is the String Empty ?
 1. Total Legs in the Farm.
@@ -452,5 +452,6 @@
 1. Equal to 7 (Fix the Expression).
 1. Sum Greater Than Five.
 1. Remove Numbers from the String (Buggy Code (Part 6)).
+1. Even and Odd Strings.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
