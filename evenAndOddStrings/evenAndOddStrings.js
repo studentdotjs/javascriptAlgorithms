@@ -10,7 +10,7 @@ const evenOddStr = (str) => {
 
     }
 
-    newStr = evenPosStr.concat(" ", oddPosStr);
+    newStr = evenPosStr + " " + oddPosStr;
 
     console.log(newStr);
 

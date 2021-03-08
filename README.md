@@ -453,5 +453,7 @@
 1. Sum Greater Than Five.
 1. Remove Numbers from the String (Buggy Code (Part 6)).
 1. Even and Odd Strings.
+1. Array Position (Array Index).
+1. Find Maximum Integer (Number).
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
