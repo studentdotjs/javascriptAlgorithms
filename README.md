@@ -455,5 +455,6 @@
 1. Even and Odd Strings.
 1. Array Position (Array Index).
 1. Find Maximum Integer (Number).
+1. Even and Last.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
