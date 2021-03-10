@@ -456,5 +456,6 @@
 1. Array Position (Array Index).
 1. Find Maximum Integer (Number).
 1. Even and Last.
+1. Swap the Numbers (Buggy Code (Part 7)).
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
