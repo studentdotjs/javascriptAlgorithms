@@ -457,5 +457,6 @@
 1. Find Maximum Integer (Number).
 1. Even and Last.
 1. Swap the Numbers (Buggy Code (Part 7)).
+1. Even or Odd?.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
