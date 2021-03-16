@@ -459,5 +459,6 @@
 1. Swap the Numbers (Buggy Code (Part 7)).
 1. Even or Odd?
 1. Sum of Numbers in an Array.
+1. Array of Strings to Array of Numbers.
 
 Codepen Collection Link Of All [JavaScript Algorithms](https://codepen.io/collection/nkwMPb/)
